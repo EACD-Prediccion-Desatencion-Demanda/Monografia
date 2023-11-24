@@ -1,0 +1,9 @@
+Iteration;Linear Regressor;Random Forest;Support Vector Machine Regressor;Decision Trees;Extratrees Regressor;Gradient Boosting Machine;Light Gradient Boosting Machine;Extreme Learning Machine;Deep Neural Network
+1;4889;4836;;;;;;;
+2;;4682;;;;;;;
+3;;4458;;;;;;;
+4;;4460;;;;;;;
+5;;4458;5029;5749;3915;4345;4067;4802;9591
+6;;4457;4197;5712;3937;4344;4063;4528;4658
+7;;4458;5005;5749;3915;4345;4067;4802;5013
+8;;3892;;;;;3757;;3665
